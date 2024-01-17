@@ -1,5 +1,5 @@
 package edu.alberto.segundasemana;
-public class Operadores {
+public class Operador {
     public static void main(String[] args) {
         
 
