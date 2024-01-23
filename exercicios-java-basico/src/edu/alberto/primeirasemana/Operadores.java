@@ -32,7 +32,7 @@ public class Operadores {
 
         int divisao = 15 / 3;
 
-        int modulo = 18 % 3;
+        int modulo = 18 % 3; // resto da divisão
 
         double resultado = (10/7) + (20*4);
 
