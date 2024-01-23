@@ -21,7 +21,7 @@ public class OperadorTernario {
         else;
         resultado = "Falso";*/
 
-        String resultado = a == b ? "Verdadeiro" : "Falso"; //forma mais resumida
+        String resultado = a == b ? "Verdadeiro" : "Falso"; //forma mais resumida.
 
         System.out.println(resultado);
     }
