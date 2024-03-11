@@ -1,11 +1,12 @@
 package edu.alberto.primeirasemana;
-
+/*
 import java.util.Date;
 
 public class Operadores {
     public static void main(String[] args) {
 
-    // Atribuição:
+ 
+    Atribuição:
 
         String nome = "Carlos";
 
@@ -57,4 +58,6 @@ public class Operadores {
         
     }
     
-}
+} 
+
+*/

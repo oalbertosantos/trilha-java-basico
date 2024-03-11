@@ -8,7 +8,7 @@ public class ExemploVariavel {
 
         System.out.println(numero);
 
-        final double VALOR_DE_PI = 3.14;
+//        final double VALOR_DE_PI = 3.14;
 
         // Ao tentar mudar essa variavel (VALOR_DE_PI = 3.15;),iria apresentar um erro.
 

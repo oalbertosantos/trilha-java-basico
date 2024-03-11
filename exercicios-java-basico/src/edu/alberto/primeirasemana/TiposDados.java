@@ -1,5 +1,5 @@
 package edu.alberto.primeirasemana;
-
+/*
 public class TiposDados {
     public static void main(String[] args) {
         byte idade = 123;
@@ -16,3 +16,4 @@ public class TiposDados {
 
     }
 }
+*/
