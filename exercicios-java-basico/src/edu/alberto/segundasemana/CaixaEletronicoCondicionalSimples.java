@@ -2,7 +2,7 @@ package edu.alberto.segundasemana;
 
 //Condicionais simples - ocorre uma validação de execução de fluxo somente quando a condição for positiva, considerando uma estrutura simples ex.:
 
-public class CaixaEletronico {
+public class CaixaEletronicoCondicionalSimples {
     public static void main(String[] args) {
 
         double saldo = 25.0;
